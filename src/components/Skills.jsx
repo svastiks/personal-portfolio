@@ -16,7 +16,7 @@ export default function Skills() {
             </div>
 
             <div className="skill">
-                
+                SQL
             </div>
 
             <div className="skill">
