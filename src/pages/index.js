@@ -2,6 +2,8 @@
 // import { Inter } from 'next/font/google'
 import Intro from '../components/Intro'
 import Experience from '../components/Experience'
+import Skills from '../components/Skills'
+import Education from '../components/Education'
 
 // const inter = Inter({ subsets: ['latin'] })
 
@@ -11,6 +13,10 @@ export default function App() {
     <Intro />
 
     <Experience />
+
+    <Skills />
+
+    <Education />
 
     </div>
 

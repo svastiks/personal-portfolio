@@ -4,6 +4,9 @@ export default function Experience() {
     return (
 
         <div className="experience">
+            <div className="expereince-title">
+                EXPRIENCE
+            </div>
             <div className="exp-one">
                 <div className="title">
                     Full Stack Developer Intern - Part Time

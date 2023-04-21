@@ -1,7 +1,12 @@
 import React from 'react'
 
 export default function Skills() {
+
+    return(
     <div className="skillsTotal">
+        <div className="skills-title">
+            SKILLS
+        </div>
         <div className="languages">
             <div className="skill">
                 Java
@@ -27,15 +32,15 @@ export default function Skills() {
         <div className="frameworksTotal">
 
             <div className="framework">
-
+                React.js
             </div>
 
             <div className="framework">
-
+                Node.js
             </div>
 
             <div className="framework">
-
+                Bootstrap
             </div>
 
             <div className="framework">
@@ -43,4 +48,5 @@ export default function Skills() {
             </div>
         </div>
     </div>
+    )
 }
