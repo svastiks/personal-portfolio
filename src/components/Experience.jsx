@@ -3,7 +3,7 @@ import React from 'react'
 export default function Experience() {
     return (
 
-        <div className="experience">
+        <div id = "experience" className="experience">
             <div className="expereince-title">
                 EXPRIENCE
             </div>

@@ -10,6 +10,9 @@ import Education from '../components/Education'
 export default function App() {
   return (
     <div>
+
+      <div id='mainTitle'>PERSONAL PORTFOLIO</div>
+      
     <Intro />
 
     <Experience />
