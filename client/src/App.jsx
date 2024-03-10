@@ -5,6 +5,7 @@ import Intro from './components/Intro';
 import Portfolio from './components/Portfolio';
 import Timeline from './components/Timeline';
 import ProjectHeading from './components/ProjectHeading';
+import AboutMe from './components/AboutMe';
 
 function App() {
 	const [theme, setTheme] = useState(null);
@@ -77,6 +78,7 @@ function App() {
 				<Intro />
 				<ProjectHeading />
 				<Portfolio />
+				<AboutMe />
 				<Timeline />
 				<Contact />
 				<Footer />

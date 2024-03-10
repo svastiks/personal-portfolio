@@ -17,4 +17,10 @@ export default [
       stack: ['JavaScript', 'Bootstrap CSS', 'HTML'],
       link: 'https://hitflixx.netlify.app',
    },
+   {
+      title: 'Checkout other projects on GitHub',
+      imgUrl: `/assets/github.png`,
+      stack: ['GitHub'],
+      link: 'https://github.com/svastiks'
+   }
 ]

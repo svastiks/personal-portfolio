@@ -16,7 +16,7 @@ function TimelineItem({ year, title, duration, details }) {
                   {duration}
                </div>
             </p>
-            <p className="my-2 text-base font-normal text-stone-500 dark:text-stone-400" dangerouslySetInnerHTML={{ __html: details.replace(/\n/g, '<br>') }}>
+            <p className="my-2 text-base font-normal text-stone-500 dark:text-stone-400" dangerouslySetInnerHTML={{ __html: details.replace(/\n/g, '<br />') }}>
                {/* {details} */}
             </p>
          </li>
