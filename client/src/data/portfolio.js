@@ -18,6 +18,12 @@ export default [
       link: 'https://hitflixx.netlify.app',
    },
    {
+      title: 'Personal Portfolio',
+      imgUrl: '/assets/blackscreen.jpg',
+      stack: ['CURRENTLY ON MY PORTFOLIO', 'React', 'Tailwind CSS', 'Vite'],
+      link: '',
+   },
+   {
       title: 'Checkout other projects on GitHub',
       imgUrl: `/assets/github.png`,
       stack: ['GitHub'],
