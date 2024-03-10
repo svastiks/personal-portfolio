@@ -1,19 +1,19 @@
 export default [
    {
-      title: 'Terminal Website',
-      imgUrl: '/assets/terminal-website.jpg',
-      stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
+      title: 'Travel Web Planner',
+      imgUrl: '/assets/travelWebapp_thumbnail.png',
+      stack: ['Node, Express', 'React', 'MongoDB', 'RestAPIs', ''],
+      link: 'github/svastiks/travel-planner-app',
    },
    {
-      title: 'Developer Portfolio',
-      imgUrl: '/assets/dev-portfolio.jpg',
+      title: 'Investment Tracker',
+      imgUrl: '/assets/investmentWebapp_thumbnail.png',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://thehackershideout.com',
+      link: 'github/svastiks/react-all-investment-portfolio',
    },
    {
-      title: 'AI Nerf Gun',
-      imgUrl: '/assets/ai-nerf-gun.jpg',
+      title: 'Movie Webapp',
+      imgUrl: '/assets/movie_thumbnail.png',
       stack: ['Python', 'C++', 'Robotics'],
       link: 'https://youtu.be/A8eegxL82PI',
    },
