@@ -2,19 +2,19 @@ export default [
    {
       title: 'Travel Web Planner',
       imgUrl: '/assets/travelWebapp_thumbnail.png',
-      stack: ['Node, Express', 'React', 'MongoDB', 'RestAPIs', ''],
-      link: 'github/svastiks/travel-planner-app',
+      stack: ['Node, Express (RestAPIs)', 'React', 'MongoDB', 'Mapbox API'],
+      link: 'https://quicktravelplan.netlify.app',
    },
    {
       title: 'Investment Tracker',
       imgUrl: '/assets/investmentWebapp_thumbnail.png',
-      stack: ['React', 'Tailwind', 'Vite'],
-      link: 'github/svastiks/react-all-investment-portfolio',
+      stack: ['React', 'Node, Express (RestAPIs)', 'CoinGecko API'],
+      link: 'https://investmentracker.netlify.app/',
    },
    {
       title: 'Movie Webapp',
       imgUrl: '/assets/movie_thumbnail.png',
-      stack: ['Python', 'C++', 'Robotics'],
-      link: 'https://youtu.be/A8eegxL82PI',
+      stack: ['JavaScript', 'Bootstrap CSS', 'HTML'],
+      link: 'https://hitflixx.netlify.app',
    },
 ]
