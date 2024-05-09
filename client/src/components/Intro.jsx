@@ -7,7 +7,7 @@ function Intro() {
             
             <div className=''>   
                <div className = 'flex justify-center items-center'>
-                  <img src='/assets/pfp.jpg' width={200} height={200} style={{borderRadius : '35%'}}></img>
+                  <img src='/assets/pfp.jpeg' width={200} height={200} style={{borderRadius : '35%'}}></img>
                </div>
 
                Svastik Sharma
