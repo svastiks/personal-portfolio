@@ -1,21 +1,40 @@
 export default [
+	{
+	  year: 'May 2025 - Aug 2025',
+	  title: 'Software Engineer | CO-OP',
+	  duration: 'theScore/ESPN Bet',
+	  details: `Incoming Summer 2025 - Accounts Team`
+	},
+	{
+	  year: 'Sep 2024 - Dec 2024',
+	  title: 'Software Engineer | CO-OP',
+	  duration: 'theScore/ESPN Bet',
+	  details: ` 
+	  -  Designed and implemented a Golf data ingestion pipeline for 3 million users using Elixir, MySQL, and PostgreSQL, reducing
+latency and improving data processing.
+	  - Used Datadog to monitor the pipeline and to improve logging standards across multiple environments including production,
+resulting in 30% less on-call incidents.
+	  - Resolved 10+ crucial production bugs in Elixir services, ensuring service reliability.
+	  - Engineered 2 Postgres mapping tables for country and region transformations, eliminating an unreliable external dependency.
+	  `
+	},
    {
-      year: 'Sept 2023 - Present',
-      title: 'Software QA Engineer Intern | CO-OP',
-      duration: 'theScore',
+      year: 'May 2024 - Aug 2024',
+      title: 'Site Reliability Engineer | CO-OP',
+      duration: 'theScore/ESPN Bet',
       details: `
 	 	
-	- Created and executed regression test plans and automation test scripts to support the ESPN Bet release window. \n
-	- Developed new and updated existing automation test cases using Kotlin, TestNG, Selenium Web Driver and Cucumber. \n
-	- Reduced manual testing by 15% due to automation test implementation \n
-	- Utilised Jenkins for continuous integration by creating deployment jobs to execute automation tests. \n
-	- Performed cross-functional testing for theScore Bet and the ESPN Bet on production and development builds. \n 
-	 
+	- Automated an end-to-end release pipeline using GitHub Actions, and ArgoCD, cutting deployment time by 20%. \n
+	- Implemented features like PR validation and Feature Flag change detection, reducing manual QA checks by 50%. \n
+	- Assisted with developing a Slack bot using Python (flask) and Jira REST API to automate and improve manual release creation
+time for 4+ teams in the org. \n
+	- Enhanced the Flask Slack bot with CRON scheduling and a Slack/Jira API integration, automating approval notifications, which
+helped reduce approval time. \n
 	  `
    },
    {
 		year: 'May 2023 - Aug 2023',
-		title: 'Full Stack Developer Intern | CO-OP',
+		title: 'Software Developer | CO-OP',
 		duration: '4Pay Inc.',
 		details:
 
@@ -29,15 +48,17 @@ export default [
 	},
 	{
 		year: 'Jan 2023 - Apr 2023',
-		title: 'Full Stack Developer Intern | CO-OP',
+		title: 'Software Developer | CO-OP',
 		duration: '4Pay Inc.',
 		details:
 		`
 
-		- Led end-to-end revamping of an existing project, increasing app engagement, and implemented new services using JavaScript, jQuery, Bootstrap and CakePHP. \n
-		- Retrieved data from RESTful APIs using HTTP methodology, handling responses, parsing data i.e. XML to JSON, and optimising performance to ensure secure data retrieval. \n
+		- Revamped an existing project, increasing app engagement by 35% due to new UI, and better services implemented using
+JavaScript (jQuery), Bootstrap, and CakePHP. \n
+		- Retrieved data from RESTful APIs (XML to JSON) and implemented the results according to business requirements. \n
 		- Reduced page loading times by 30% and improved responsiveness by upgrading frameworks and libraries. \n
-		- Conducted detailed software testing in development and QA environments leading to major bug fixes and workflow corrections before prod deployment, resulting in minimal production issues. \n
+		- Developed test cases in Jest, covering edge cases to identify and resolve potential threats in advance, minimizing production
+issues. \n
 		
 		`
 	}
